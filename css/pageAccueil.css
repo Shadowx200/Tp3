@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+header img{
+    width: 200px;
+    height: 100px;
+}
+.headerContainer1{
+    margin-left: auto;
+}
+
+.headerContainer1 a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.btnCommande{
+    background-color: white;
+    padding: 10px 25px;
+    box-shadow: 0 3px 8px;
+}
